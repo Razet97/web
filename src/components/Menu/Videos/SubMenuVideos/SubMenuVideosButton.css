@@ -1,0 +1,16 @@
+/* src/components/Menu/Videos/SubMenuVideos/SubMenuVideosButton.css */
+
+.sub-menu-videos-button {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding: 8px 16px;
+  transition: background-color 0.3s ease;
+  font-family: Arial, sans-serif; /* Define el tipo de letra para el botón */
+  font-size: 16px; /* Define el tamaño de la fuente para el botón */
+  /* Otros estilos específicos para el botón de Videos */
+}
+
+.sub-menu-videos-button:hover {
+  background-color: #f0f0f0;
+}

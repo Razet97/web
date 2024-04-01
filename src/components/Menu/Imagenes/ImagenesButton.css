@@ -1,0 +1,10 @@
+/* src/components/Menu/Imagenes/ImagenesButton.css */
+
+.imagenes-button {
+    position: relative;
+    margin-right: 20px;
+    font-family: Arial, sans-serif; /* Define el tipo de letra para el botón */
+  font-size: 16px; /* Define el tamaño de la fuente para el botón */
+  /* Otros estilos específicos para el botón de Imagenes */
+  }
+  

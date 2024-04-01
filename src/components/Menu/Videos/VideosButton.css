@@ -1,0 +1,9 @@
+/* src/components/Menu/Videos/VideosButton.css */
+
+.videos-button {
+  position: relative;
+  cursor: pointer;
+  font-family: Arial, sans-serif; /* Define el tipo de letra para el botón */
+  font-size: 16px; /* Define el tamaño de la fuente para el botón */
+  /* Otros estilos específicos para el botón de Videos */
+}

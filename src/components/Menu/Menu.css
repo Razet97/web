@@ -1,0 +1,10 @@
+/* Menu.css */
+
+.menu {
+  display: flex; /* Muestra los botones en línea */
+}
+
+/* Puedes agregar márgenes si es necesario */
+.imagenes-button {
+  margin-right: 10px;
+}

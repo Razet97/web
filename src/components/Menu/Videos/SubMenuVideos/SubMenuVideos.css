@@ -1,0 +1,13 @@
+/* src/components/Menu/Videos/SubMenuVideos/SubMenuVideos.css */
+
+.sub-menu-videos {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-family: Arial, sans-serif; /* Define el tipo de letra para el botón */
+  font-size: 16px; /* Define el tamaño de la fuente para el botón */
+  /* Otros estilos específicos para el botón de Videos */
+}

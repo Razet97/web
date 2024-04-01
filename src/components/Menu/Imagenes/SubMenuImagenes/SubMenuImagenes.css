@@ -1,0 +1,20 @@
+/* src/components/Menu/Imagenes/SubMenuImagenes/SubMenuImagenes.css */
+
+.sub-menu-imagenes {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    display: none;
+    font-family: Arial, sans-serif; /* Define el tipo de letra para el botón */
+  font-size: 16px; /* Define el tamaño de la fuente para el botón */
+  /* Otros estilos específicos para el botón de Videos */
+  }
+  
+  .imagenes-button:hover .sub-menu-imagenes {
+    display: block;
+  }
+  
